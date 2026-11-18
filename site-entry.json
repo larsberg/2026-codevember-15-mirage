@@ -1,0 +1,30 @@
+{
+  "id": "2026-codevember-15-mirage",
+  "title": "Mirage",
+  "slug": "2026-codevember-15-mirage",
+  "aliases": [],
+  "hidden": true,
+  "date": "2026-11-18",
+  "datePrecision": "day",
+  "thumbnail": {
+    "src": "https://larsberg.github.io/2026-codevember-15-mirage/thumbnail.jpg",
+    "width": 1600,
+    "height": 900,
+    "alt": "Three stretched Mitsubishi Mirages on a winding road at sunset."
+  },
+  "runtimeUrl": "https://larsberg.github.io/2026-codevember-15-mirage/?embed=1",
+  "standaloneUrl": "https://larsberg.github.io/2026-codevember-15-mirage/",
+  "iframeAllow": "autoplay; fullscreen",
+  "madeWith": [
+    "threejs",
+    "box3d",
+    "strudel",
+    "web-audio"
+  ],
+  "sidebarPattern": "waves",
+  "sidebarTone": "dark",
+  "sidebar": {
+    "textColor": "#ffffff",
+    "backgroundColor": "#000000af"
+  }
+}

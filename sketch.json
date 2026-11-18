@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-codevember-15-mirage",
+  "title": "Mirage",
+  "created": "2026-11-18",
+  "date": "2026-11-18",
+  "datePrecision": "day",
+  "author": "Lars Berg",
+  "entry": "./",
+  "description": "Three 75-foot Mitsubishi Mirages race around a looping two-lane road at sunset.",
+  "protocol": "sketch-player:v1",
+  "capabilities": [
+    "play",
+    "pause",
+    "reset",
+    "get-setup",
+    "setup",
+    "save-setup",
+    "load-setup"
+  ],
+  "sound": "gesture-required",
+  "audio": "gesture-required",
+  "tags": [
+    "codevember",
+    "threejs",
+    "physics",
+    "strudel",
+    "cars"
+  ],
+  "madeWith": [
+    "threejs",
+    "box3d",
+    "strudel",
+    "web-audio"
+  ],
+  "embed": {
+    "src": "./?embed=1",
+    "allow": [
+      "autoplay",
+      "fullscreen"
+    ],
+    "resize": "container",
+    "controls": [
+      "play",
+      "pause",
+      "reset",
+      "get-setup",
+      "setup",
+      "save-setup",
+      "load-setup"
+    ],
+    "protocol": "sketch-player:v1",
+    "parentOriginParameter": "parentOrigin"
+  },
+  "thumbnail": {
+    "src": "./thumbnail.jpg",
+    "width": 1600,
+    "height": 900,
+    "alt": "Three stretched Mitsubishi Mirages on a winding road at sunset."
+  },
+  "repository": "https://github.com/larsberg/2026-codevember-15-mirage",
+  "url": "https://larsberg.github.io/2026-codevember-15-mirage/"
+}
